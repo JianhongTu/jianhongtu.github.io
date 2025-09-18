@@ -13,7 +13,7 @@ profile:
     # <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -21,11 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by Dr. Chenguang Wang. Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis. I was also a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor), when I was an undergrad.
+I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis. I was also a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor), when I was an undergrad.
 
 My research interests lie in multimodal large language models, security, large language model agents, and biomedical artificial intelligence. Outside my lab, I enjoy city-pop music and hiking. 
