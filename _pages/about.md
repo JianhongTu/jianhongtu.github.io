@@ -5,7 +5,7 @@ permalink: /
 subtitle: First-year Comp. Sci. PhD student @ UCSC
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.pngg
   image_circular: false # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
