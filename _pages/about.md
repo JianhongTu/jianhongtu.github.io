@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-year Comp. Sci. PhD student at University of California, Santa Cruz
-
+subtitle: First-year Comp. Sci. PhD student @ UCSC
 profile:
   align: right
   image: prof_pic.png
