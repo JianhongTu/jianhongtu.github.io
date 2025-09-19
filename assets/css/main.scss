@@ -29,7 +29,7 @@ $max-content-width: {{ site.max_width }};
 .post-thumb {
   width: 160px;      /* tweak as you like */
   height: 100px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
   display: inline-block;
 }
