@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-a-comprehensive-survey-of-evaluating-multimodal-foundation-models-hierarchical-perspective-and-extensive-applications",
         
-          title: "",
+          title: "A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications...",
         
-        description: "",
+        description: "An up-to-date survey on the evaluation of MLLMs in 2025",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-05-11-mmsurvey/";
+            window.location.href = "/assets/pdf/EMNLP25_MMEval_Survey";
           
         },
       },{id: "post-diversity-based-data-subset-selection-with-deep-reinforcement-learning",
