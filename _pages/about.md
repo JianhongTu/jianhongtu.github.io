@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: First-year Comp. Sci. PhD student @ UCSC
 profile:
@@ -29,3 +29,5 @@ latest_posts:
 I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis. I was also a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor), when I was an undergrad.
 
 My research interests lie in multimodal large language models, security, large language model agents, and biomedical artificial intelligence. Outside my lab, I enjoy city-pop music and hiking. 
+
+[CV]({{ '/assets/pdf/jianhongtu_CV.pdf' | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=SvB1lcYAAAAJ)
