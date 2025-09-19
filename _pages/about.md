@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: First-year Comp. Sci. PhD student @ UCSC
