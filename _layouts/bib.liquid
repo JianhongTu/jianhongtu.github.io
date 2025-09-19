@@ -49,10 +49,10 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">
-      {{ entry.title }}
       {% if entry.cover == true or entry.cover == "true" or entry.note contains "Cover" or entry.note contains "cover" %}
-        <span class="pub-badge">⭐ Cover Paper</span>
+        <span class="pub-badge">⭐ </span>
       {% endif %}
+      {{ entry.title }}
     </div>
     <!-- Author -->
     <div class="author">
