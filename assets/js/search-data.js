@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/EMNLP25_MMEval_Survey";
+            window.location.href = "/assets/pdf/EMNLP25_MMEval_Survey.pdf";
           
         },
       },{id: "post-diversity-based-data-subset-selection-with-deep-reinforcement-learning",
