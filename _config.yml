@@ -48,8 +48,8 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+search_enabled: false
+socials_in_search: false
 posts_in_search: true
 bib_search: true
 
@@ -192,7 +192,6 @@ exclude:
   - _includes/news.liquid
   - _pages/repositories.md
   - _includes/repository/
-  - _posts/_drafts/
 keep_files:
   - CNAME
   - .nojekyll
@@ -287,7 +286,7 @@ scholar:
 
   query: "@*"
   group_by: year
-  group_order: descending
+  group_order: ascending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
