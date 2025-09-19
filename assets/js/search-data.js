@@ -80,7 +80,29 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2022-02-01-redirect/";
+            window.location.href = "/blog/2025/2025-05-11-mmsurvey/";
+          
+        },
+      },{id: "post-diversity-based-data-subset-selection-with-deep-reinforcement-learning",
+        
+          title: "Diversity-based Data Subset Selection with Deep Reinforcement Learning",
+        
+        description: "A novel reinforcement learning based method for efficiently selecting most diverse subsets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/2024jianhongsubset.pdf";
+          
+        },
+      },{id: "post-instruction-aware-visual-feature-extraction-for-multimodal-large-language-mode",
+        
+          title: "Instruction-aware Visual Feature Extraction for Multimodal Large Language Mode",
+        
+        description: "A novel efficient multimodal large language model that compress visual prefix based on instructions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/TA_VPool.pdf";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
