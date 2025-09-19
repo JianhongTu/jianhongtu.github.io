@@ -23,3 +23,16 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* right-side thumbnails in latest posts table */
+.table .thumb-cell { vertical-align: middle; }
+.post-thumb {
+  width: 160px;      /* tweak as you like */
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: inline-block;
+}
+@media (max-width: 576px) {
+  .post-thumb { width: 120px; height: 80px; }
+}
