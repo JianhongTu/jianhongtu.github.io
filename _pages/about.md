@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis. I was also a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor), when I was an undergrad.
+I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). I am also a post-training researcher with the Amazon Nova AI Challenge at UC Santa Cruz. Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis, where I was a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor).
 
-My research interests lie in multimodal large language models, security, large language model agents, and biomedical artificial intelligence. Outside my lab, I enjoy city-pop music and hiking. 
+My research interests lie in foundation models, post-training, agentic AI, and cybersecurity. Outside my lab, I enjoy city-pop music and hiking. 
 
 [CV]({{ '/assets/pdf/jianhongtu_CV.pdf' | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=SvB1lcYAAAAJ)
