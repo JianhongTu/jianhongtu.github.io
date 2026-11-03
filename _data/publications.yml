@@ -1,0 +1,71 @@
+main:
+
+  - title: "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks"
+    authors: "Xiangyi Li, Yimin Liu, Wenbo Chen, ..., <strong>Jianhong Tu</strong>, ..., Dawn Song"
+    conference_short: Preprint
+    conference: "Preprint, arXiv:2602.12670, 2026."
+    pdf: https://arxiv.org/pdf/2602.12670
+    image: ./assets/img/publication_preview/2026xiangyiskillsbench.png
+
+  - title: "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility"
+    authors: "Xiaoyuan Liu, <strong>Jianhong Tu</strong>, Yuqi Chen, Siyuan Xie, Sihan Ren, Tianneng Shi, Gal Gantar, Evan Sandoval, Donghyun Lee, Daniel Miao, Peter J. Gilbert, Nick Hynes, Mauro Staver, Warren He, David Marn, Andrew Low, Xi Zhang, Elron Bandel, Michal Shmueli-Scheuer, Siva Reddy, Alexandre Drouin, Alexandre Lacoste, Ramayya Krishnan, Elham Tabassi, Yu Su, Victor Barres, Chenguang Wang, Wenbo Guo, Dawn Song"
+    conference_short: Preprint
+    conference: "Preprint, arXiv:2606.13608, 2026."
+    pdf: https://arxiv.org/pdf/2606.13608
+    image: ./assets/img/publication_preview/2026xiaoyuanagentbeats.png
+
+  - title: "Agents' Last Exam"
+    authors: "Yiyou Sun, Xinyang Han, Weichen Zhang, ..., <strong>Jianhong Tu</strong>, ..., Dawn Song"
+    conference_short: Preprint
+    conference: "Preprint, arXiv:2606.05405, 2026."
+    pdf: https://arxiv.org/pdf/2606.05405
+    image: ./assets/img/publication_preview/2026yiyouale.png
+
+  - title: "FaultLoc: Evaluating Coding Agents for Fault Localization"
+    authors: "<strong>Jianhong Tu</strong>, Shubham Gaur, Rathik Murtinty, Zhun Wang, Tianneng Shi, Dawn Song, Chenguang Wang"
+    conference_short: ICML-W
+    conference: "Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD), <strong>ICML</strong>, 2026."
+    pdf: https://openreview.net/pdf?id=3q6yWfaQ8R
+
+  - title: "A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications"
+    authors: "Ye Yuan, Junyu Luo, Guancheng Wan, Jinsheng Huang, Chengwu Liu, Junwei Yang, Yifang Qin, Zhiping Xiao, Qingqing Long, Meng Xiao, Yiqiao Jin, <strong>Jianhong Tu</strong>, Yuqi Chen, Wei Ju, Zhongwei Wan, Yusheng Zhao, Xiao Luo, Yiwei Fu, Yizhou Sun, Wei Wang, Chenguang Wang, Ming Zhang"
+    conference_short: Under Review
+    conference: "Under review at ARR, 2026."
+    pdf: ./assets/pdf/EMNLP25_MMEval_Survey.pdf
+    image: ./assets/img/publication_preview/2025yuancompmmeval.png
+
+  - title: "CyberCycle: A Scalable Real-World Benchmark for AI Agents' End-to-End Cybersecurity Capabilities"
+    authors: "Tianneng Shi, Robin Rheem, Dongwei Jiang, Francisco De La Riega, Mona Wang, Zhun Wang, Jingzhi Jiang, Alexander Cheung, Sean Tai, Jonah Cha, <strong>Jianhong Tu</strong>, Gabriel Han, Chenguang Wang, Wenbo Guo, Jingxuan He, Dawn Song"
+    conference_short: ICML
+    conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2606.04460
+    image: ./assets/img/publication_preview/2026tiannengcybercycle.png
+
+  - title: "FICO: Evaluating Vision-Language Models under Visual Fidelity and Compression at Scale"
+    authors: "<strong>Jianhong Tu</strong>, Kyle Montgomery, Nicholas Crispino, Chenguang Wang, Dawn Song"
+    conference_short: ACL
+    conference: "Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026."
+    pdf: https://aclanthology.org/2026.findings-acl.1758.pdf
+    image: ./assets/img/publication_preview/2026jianhongfico.png
+
+  - title: "MLAN: Language-Based Instruction Tuning Preserves and Transfers Knowledge in Multimodal Language Models"
+    authors: "<strong>Jianhong Tu</strong>, Zhuohao Ni, Nicholas Crispino, Zihao Yu, Michael Bendersky, Beliz Gunel, Ruoxi Jia, Xin Liu, Lingjuan Lyu, Dawn Song, Chenguang Wang"
+    conference_short: ACL-W
+    conference: "3rd Workshop on Towards Knowledgeable Foundation Models (KnowFM), <strong>ACL</strong>, 2025."
+    pdf: https://arxiv.org/pdf/2411.10557
+    image: ./assets/img/publication_preview/2025jianhongmlan.png
+
+  - title: "Predicting Task Performance with Context-Aware Scaling Laws"
+    authors: "Kyle Montgomery, David Park, <strong>Jianhong Tu</strong>, Michael Bendersky, Beliz Gunel, Dawn Song, Chenguang Wang"
+    conference_short: ACL-W
+    conference: "3rd Workshop on Towards Knowledgeable Foundation Models (KnowFM), <strong>ACL</strong>, 2025."
+    pdf: https://arxiv.org/pdf/2510.14919
+    image: ./assets/img/publication_preview/2025kylecontextscaling.png
+
+  - title: "Failure in a population: Tauopathy disrupts homeostatic set-points in emergent dynamics despite stability in the constituent neurons"
+    authors: "James N. McGregor, Clayton A. Farris, Sahara Ensley, Aidan Schneider, Leandro J. Fosque, Chao Wang, Elizabeth I. Tilden, Yuqi Liu, <strong>Jianhong Tu</strong>, Halla Elmore, Keenan D. Ronayne, Ralf Wessel, Eva L. Dyer, Kiran Bhaskaran-Nair, David M. Holtzman, Keith B. Hengen"
+    conference_short: Neuron
+    conference: "<strong>Neuron</strong>, 2024."
+    pdf: https://doi.org/10.1016/j.neuron.2024.08.006
+    image: ./assets/img/publication_preview/2024hengentau.jpg
+    notes: Cover Paper
