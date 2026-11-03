@@ -14,6 +14,10 @@ My research interests lie in foundation models, post-training, agentic AI, and c
 
 - **Visiting Researcher**, Scale AI (Sep 2026 – Present)
 
+## Open Source
+
+- **Task Author**, [Terminal-Bench 3.0](https://www.tbench.ai/contributors) (2026)
+
 ## Teaching
 
 - **Teaching Assistant**, NLP 203: Natural Language Processing III, UCSC (Apr 2026 – Jun 2026)
