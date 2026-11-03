@@ -56,7 +56,7 @@ main:
     image: ./assets/img/publication_preview/2026tiannengcybergyme2e.png
 
   - title: "FICO: Evaluating Vision-Language Models under Visual Fidelity and Compression at Scale"
-    authors: "<strong>Jianhong Tu</strong>, Kyle Montgomery, Nicholas Crispino, Chenguang Wang, Dawn Song"
+    authors: "<strong>Jianhong Tu</strong>, Nicholas Crispino, Kyle Montgomery, Chenguang Wang, Dawn Song"
     conference_short: ACL Findings
     conference: "Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026."
     pdf: https://aclanthology.org/2026.findings-acl.1758.pdf
