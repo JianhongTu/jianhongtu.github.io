@@ -26,6 +26,7 @@ main:
     conference_short: ICML-W
     conference: "Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD), <strong>ICML</strong>, 2026."
     pdf: https://openreview.net/pdf?id=3q6yWfaQ8R
+    image: ./assets/img/publication_preview/2026jianhongfaultloc.png
 
   - title: "A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications"
     authors: "Ye Yuan, Junyu Luo, Guancheng Wan, Jinsheng Huang, Chengwu Liu, Junwei Yang, Yifang Qin, Zhiping Xiao, Qingqing Long, Meng Xiao, Yiqiao Jin, <strong>Jianhong Tu</strong>, Yuqi Chen, Wei Ju, Zhongwei Wan, Yusheng Zhao, Xiao Luo, Yiwei Fu, Yizhou Sun, Wei Wang, Chenguang Wang, Ming Zhang"
@@ -43,8 +44,8 @@ main:
 
   - title: "FICO: Evaluating Vision-Language Models under Visual Fidelity and Compression at Scale"
     authors: "<strong>Jianhong Tu</strong>, Kyle Montgomery, Nicholas Crispino, Chenguang Wang, Dawn Song"
-    conference_short: ACL
-    conference: "Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026."
+    conference_short: ACL Findings
+    conference: "Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026."
     pdf: https://aclanthology.org/2026.findings-acl.1758.pdf
     image: ./assets/img/publication_preview/2026jianhongfico.png
 

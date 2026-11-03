@@ -4,11 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). I am also a post-training researcher with the Amazon Nova AI Challenge at UC Santa Cruz. Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis, where I was a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor).
+I am a second-year PhD student in Computer Science at University of California, Santa Cruz, advised by [Dr. Chenguang Wang](https://cgraywang.github.io/). I am also a post-training researcher with the Amazon Nova AI Challenge at UC Santa Cruz. Before that, I completed my Bachelor's degree in Data Science at Washington University in St. Louis, where I was a student researcher at the [Hengen Lab](https://hengenlab.org/), supervised by [Dr. Keith Hengen](https://hengenlab.org/kbh-2) and [Dr. James McGregor](https://hengenlab.org/james-mcgregor).
 
 My research interests lie in foundation models, post-training, agentic AI, and cybersecurity. Outside my lab, I enjoy city-pop music and hiking.
 
 {% include_relative _includes/publications.md %}
+
+## Experience
+
+- **Visiting Researcher**, Scale AI (Sep 2026 – Present)
 
 ## Teaching
 
