@@ -12,23 +12,20 @@ section li .date {
   font-variant-numeric: tabular-nums;
 }
 
-// Rectangular profile photo as wide as the sidebar text (232px), instead of the theme's small circle
-.image.avatar,
-.image.avatar img {
-  border-radius: 6px;
-}
-
+// Rectangular profile photo as wide as the sidebar, instead of the theme's small circle
 header .image.avatar {
   display: block;
+  border-radius: 6px;
 }
 
 header .image.avatar img {
   display: block;
   width: 100%;
-  max-width: 232px;
+  max-width: 232px; // the theme's sidebar width; caps the photo when the sidebar spans a phone screen
   height: auto;
   padding: 0;
   margin: 0 auto 1em;
+  border-radius: 6px;
 }
 
 // On short desktop windows the fixed sidebar (with the large photo) is taller than the window,
