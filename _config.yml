@@ -20,12 +20,6 @@ icon: 🫠 # emoji used as the browser tab icon
 # Shows "Powered by Jekyll and Minimal Light theme." at the bottom of the page
 enable_footnote: true
 
-# Automatic dark theme
-auto_dark_mode: true
-
-# "Serif" or "Sans Serif"
-font: "Serif"
-
 # Files left out of the generated website
 exclude:
   - Gemfile
